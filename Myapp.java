@@ -6,7 +6,10 @@ public class Myapp {
 		int d = 40;
 		System.out.println("Addition is: " + (a + b + c + d));
 		System.out.println("The task completed by Kiran");
-		System.out.println("Adding New line");
+		System.out.println("Adding New line1");
+		System.out.println("Adding New line2");
+		System.out.println("Adding New line3");
+		System.out.println("Adding New line4");
 	}
 }
 
